@@ -19,6 +19,7 @@ import java.util.List;
  */
 @RestController
 public class GirlController {
+    //日志
     private static final Logger logger = LoggerFactory.getLogger(GirlController.class);
 
     @Autowired
